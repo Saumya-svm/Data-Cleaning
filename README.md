@@ -1,5 +1,4 @@
 # Data-Cleaning
-Data Cleaning Projects/Notes/Examples
 
 Level : Beginner
 
