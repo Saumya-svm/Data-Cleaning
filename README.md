@@ -12,4 +12,4 @@ Although this was part of a Guided project from Dataquest, I tried to analyse an
 
 Contact at:
 [Linkedin](https://www.linkedin.com/in/saumya-mundra-b535041ba/)
-[Gmail](saumyamundra@gmail.com)
+
